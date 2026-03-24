@@ -1,0 +1,32 @@
+[    4622ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Content/NewPortal/css/new_persion.css:0
+[    4624ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Content/NewPortal/window/advertisement.css:0
+[    4705ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Content/NewPortal/images/logo.png:0
+[    4705ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Content/NewPortal/images/hd_banner.png:0
+[    8661ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Content/NewPortal/window/advertisement.js:0
+[    8670ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Content/NewPortal/images/index_right_2.png:0
+[    8677ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.SuperSlide.2.1.3.js:0
+[    8686ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery-tab.js:0
+[    8691ms] [WARNING] jQuery.Deferred exception: $(...).Tab is not a function TypeError: $(...).Tab is not a function
+    at HTMLDivElement.<anonymous> (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/indexNew.js:19:17)
+    at ce.each (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:3129)
+    at ce.fn.init.each (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:1594)
+    at HTMLDocument.<anonymous> (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/indexNew.js:16:19)
+    at e (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:27028)
+    at t (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:27330) undefined @ https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:1
+[    8692ms] TypeError: $(...).Tab is not a function
+    at HTMLDivElement.<anonymous> (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/indexNew.js:19:17)
+    at ce.each (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:3129)
+    at ce.fn.init.each (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:1594)
+    at HTMLDocument.<anonymous> (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/indexNew.js:16:19)
+    at e (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:27028)
+    at t (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:27330)
+[    9804ms] TypeError: jQuery(...).slide is not a function
+    at Object.success (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/indexNew.js:466:33)
+    at c (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:25304)
+    at Object.fireWith [as resolveWith] (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:26053)
+    at l (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:77782)
+    at XMLHttpRequest.<anonymous> (https://ggzy.qingdao.gov.cn/Content/NewPortal/js/jquery.min.js:2:80265)
+[   12728ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/PortalQDManage/PortalQD/GetLoginNoticeIndexNew:0
+[   12742ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/PortalQDManage/PortalQD/GetWindowNoticeList:0
+[   12743ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/PortalQDManage/PortalQD/GetLinksInfo:0
+[   12748ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/favicon.ico:0

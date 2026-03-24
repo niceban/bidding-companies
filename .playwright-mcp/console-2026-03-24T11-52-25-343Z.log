@@ -1,0 +1,10 @@
+[    1981ms] Error: Initialize failed: invalid dom.
+    at Object.bl [as init] (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/lib/echarts.min.js:3:24120)
+    at Object.success (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/index.js:170:49)
+    at j (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/lib/jquery.min.js:2:27309)
+    at Object.fireWith [as resolveWith] (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/lib/jquery.min.js:2:28122)
+    at Object.<anonymous> (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/lib/jquery.min.js:2:28803)
+    at j (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/lib/jquery.min.js:2:27309)
+    at Object.fireWith [as resolveWith] (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/lib/jquery.min.js:2:28122)
+    at x (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/lib/jquery.min.js:5:22111)
+    at XMLHttpRequest.b (http://ggzyjy.liaocheng.gov.cn/lcggzy/js/lib/jquery.min.js:5:26030)

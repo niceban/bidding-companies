@@ -1,0 +1,32 @@
+[      20ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[      39ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[      60ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[      80ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[      99ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     119ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     139ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     159ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     179ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     199ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     209ms] [ERROR] Mixed Content: The page at 'https://ggzyjy.shandong.gov.cn/queryContent-jyxxgs.jspx?channelId=80' was loaded over HTTPS, but requested an insecure script 'http://wthrcdn.etouch.cn/weather_mini?city=%E6%B5%8E%E5%8D%97&callback=jQuery111309515496109912549_1774332462992&_=1774332462993'. This request has been blocked; the content must be served over HTTPS. @ https://ggzyjy.shandong.gov.cn/r/cms/com.sdggzyjy.www/com.sdggzyjy.www/js/jquery.min.js:4
+[   11914ms] [ERROR] Mixed Content: The page at 'https://ggzyjy.shandong.gov.cn/queryContent-jyxxgs.jspx' was loaded over HTTPS, but requested an insecure script 'http://wthrcdn.etouch.cn/weather_mini?city=%E6%B5%8E%E5%8D%97&callback=jQuery1113009623237515374439_1774332474697&_=1774332474698'. This request has been blocked; the content must be served over HTTPS. @ https://ggzyjy.shandong.gov.cn/r/cms/com.sdggzyjy.www/com.sdggzyjy.www/js/jquery.min.js:4

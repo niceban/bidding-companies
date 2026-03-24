@@ -1,0 +1,1963 @@
+[     233ms] [ERROR] Mixed Content: The page at 'https://ggzyjy.shandong.gov.cn/' was loaded over HTTPS, but requested an insecure script 'http://wthrcdn.etouch.cn/weather_mini?city=%E6%B5%8E%E5%8D%97&callback=jQuery111305415143902851032_1774347475323&_=1774347475324'. This request has been blocked; the content must be served over HTTPS. @ https://ggzyjy.shandong.gov.cn/r/cms/com.sdggzyjy.www/com.sdggzyjy.www/js/jquery.min.js:4
+[     292ms] TypeError: Cannot set properties of null (setting 'onmouseover')
+    at https://ggzyjy.shandong.gov.cn/:234:21
+[     347ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     345ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://ggzyjy.shandong.gov.cn/r/cms/com.sdggzyjy.www/com.sdggzyjy.www/images/ico-tzgg.png:0
+[     354ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     476ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     484ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     484ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     498ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     526ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     553ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     572ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     593ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     602ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://ggzyjy.shandong.gov.cn/favicon.ico:0
+[     613ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     638ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     652ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     732ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     793ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     813ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     833ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     873ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     892ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     913ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     962ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     973ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[     992ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1013ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1112ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1192ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1273ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1292ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1333ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1352ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1372ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1392ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1413ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1433ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1472ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1492ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1513ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1552ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1573ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1592ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1613ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1634ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1652ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1792ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1813ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1832ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1873ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1893ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1912ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1932ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1972ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    1993ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2012ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2032ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2112ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2135ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2193ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2232ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2253ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2272ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2293ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2333ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2352ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2372ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2393ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2413ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2433ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2473ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2493ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2512ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2552ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2573ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2593ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2613ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2633ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2651ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2672ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2693ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2772ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2793ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2813ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2833ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2872ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2893ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2913ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2972ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    2993ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3013ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3112ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3132ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3153ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3193ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3232ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3272ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3292ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3333ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3352ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3373ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3392ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3413ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3432ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3478ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3493ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3512ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3532ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3553ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3572ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3593ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3615ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3634ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3652ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3732ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3751ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3792ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3812ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3831ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3853ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3872ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3892ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3912ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3932ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3953ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3973ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    3993ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4013ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4072ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4092ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4113ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4193ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4232ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4273ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4295ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4333ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4352ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4373ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4393ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4413ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4433ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4472ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4493ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4512ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4552ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4573ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4592ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4612ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4632ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4652ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4792ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4813ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4833ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4872ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4892ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4912ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4972ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    4993ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5013ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5113ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5193ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5272ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5293ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5312ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5333ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5353ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5372ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5393ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5411ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5433ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5473ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5492ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5512ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5553ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5572ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5593ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5612ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5633ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5653ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5793ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5813ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5833ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5873ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5893ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5913ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5973ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    5992ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6013ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6092ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6113ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6193ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6272ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6292ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6333ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6352ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6373ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6392ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6412ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6432ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6473ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6492ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6512ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6532ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6553ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6572ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6593ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6613ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6633ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6653ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6672ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6792ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6812ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6832ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6873ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6893ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6912ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6973ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    6992ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7013ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7112ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7172ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7193ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7232ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7273ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7292ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7333ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7353ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7373ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7392ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7413ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7433ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7472ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7493ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7513ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7552ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7573ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7593ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7613ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7633ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7653ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7712ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7792ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7813ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7832ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7872ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7892ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7913ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7973ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    7992ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8012ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8113ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8193ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8272ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8293ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8333ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8352ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8373ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8393ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8413ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8432ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8473ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8493ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8513ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8552ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8572ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8592ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8613ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8633ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8652ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8792ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8812ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8833ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8873ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8893ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8913ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8972ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    8993ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9012ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9032ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9092ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9113ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9132ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9172ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9193ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9273ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9293ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9332ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9352ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9372ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9392ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9412ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9433ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9472ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9492ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9512ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9552ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9573ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9592ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9613ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9633ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9653ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9712ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9792ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9812ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9832ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9853ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9872ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9892ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9912ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9973ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[    9992ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10012ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10053ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10092ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10112ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10192ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10253ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10273ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10293ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10332ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10353ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10372ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10393ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10412ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10431ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10453ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10472ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10493ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10512ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10532ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10552ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10572ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10592ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10612ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10632ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10652ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10693ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10712ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10732ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10772ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10793ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10812ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10833ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10852ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10873ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10892ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10913ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10973ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   10993ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11012ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11052ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11113ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11192ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11272ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11293ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11312ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11332ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11353ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11373ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11393ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11412ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11433ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11452ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11473ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11493ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11513ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11533ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11552ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11573ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11593ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11612ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11632ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11652ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11713ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11733ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11752ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11772ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11793ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11813ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11833ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11854ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11873ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11893ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11913ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11973ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   11993ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12013ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12051ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12112ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12133ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12152ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12192ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12212ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12273ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12293ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12332ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12352ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12373ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12392ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12412ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12433ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12453ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12473ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12492ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12512ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12532ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12553ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12573ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12592ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12613ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12633ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12653ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12673ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12692ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12712ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12732ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12751ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12773ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12792ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12812ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12832ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12853ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12872ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12892ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12912ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12933ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12952ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12972ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   12992ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13012ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13033ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13063ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13073ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13093ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13112ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13135ms] TypeError: Cannot read properties of undefined (reading 'split')
+    at HTMLAnchorElement.<anonymous> (https://ggzyjy.shandong.gov.cn/r/cms/com.sdggzyjy.www/com.sdggzyjy.www/js/jquery.min.js:8:218)
+    at HTMLAnchorElement.dispatch (https://ggzyjy.shandong.gov.cn/r/cms/com.sdggzyjy.www/com.sdggzyjy.www/js/jquery.min.js:4:8553)
+    at m.event.add.r.handle (https://ggzyjy.shandong.gov.cn/r/cms/com.sdggzyjy.www/com.sdggzyjy.www/js/jquery.min.js:4:5256)
+[   13157ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13158ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13173ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13192ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13213ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13233ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13252ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13273ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13292ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13313ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13332ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13353ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13373ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13392ms] TypeError: Cannot read properties of null (reading 'offsetWidth')
+    at float1 (https://ggzyjy.shandong.gov.cn/:209:58)
+    at <anonymous>:1:1
+[   13409ms] [ERROR] Mixed Content: The page at 'https://ggzyjy.shandong.gov.cn/queryContent-jyxxgk.jspx?channelId=78' was loaded over HTTPS, but requested an insecure script 'http://wthrcdn.etouch.cn/weather_mini?city=%E6%B5%8E%E5%8D%97&callback=jQuery11130055845042038568105_1774347488502&_=1774347488503'. This request has been blocked; the content must be served over HTTPS. @ https://ggzyjy.shandong.gov.cn/r/cms/com.sdggzyjy.www/com.sdggzyjy.www/js/jquery.min.js:4

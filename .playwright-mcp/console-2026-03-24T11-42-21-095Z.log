@@ -1,0 +1,6 @@
+[     444ms] TypeError: Cannot read properties of undefined (reading 'itemTotal')
+    at Object.success (http://ggzyjy.linyi.gov.cn/js/index.js:446:76)
+    at c (http://ggzyjy.linyi.gov.cn/js/lib/jquery.min.js:1:25266)
+    at Object.fireWith [as resolveWith] (http://ggzyjy.linyi.gov.cn/js/lib/jquery.min.js:1:26015)
+    at l (http://ggzyjy.linyi.gov.cn/js/lib/jquery.min.js:1:77721)
+    at XMLHttpRequest.<anonymous> (http://ggzyjy.linyi.gov.cn/js/lib/jquery.min.js:1:80204)

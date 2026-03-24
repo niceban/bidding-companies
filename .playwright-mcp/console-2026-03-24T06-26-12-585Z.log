@@ -1,0 +1,9 @@
+[    1198ms] TypeError: Cannot read properties of undefined (reading 'todayTransaction')
+    at Object.<anonymous> (http://jsggzy.jszwfw.gov.cn/js/index.js?0.12334:105:43)
+    at c (http://jsggzy.jszwfw.gov.cn/js/lib/jquery.min.js:1:25262)
+    at Object.add [as fail] (http://jsggzy.jszwfw.gov.cn/js/lib/jquery.min.js:1:25541)
+    at Object.always (http://jsggzy.jszwfw.gov.cn/js/lib/jquery.min.js:1:26487)
+    at getInfomationNew (http://jsggzy.jszwfw.gov.cn/js/index.js?0.12334:103:12)
+    at http://jsggzy.jszwfw.gov.cn/js/index.js?0.12334:108:5
+    at http://jsggzy.jszwfw.gov.cn/js/index.js?0.12334:182:3
+[    1942ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://jsggzy.jszwfw.gov.cn/favicon.ico:0

@@ -1,0 +1,4 @@
+[    4153ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/jd/IntelligentAnalysisManage/BigDataAnalysis/GetTodayOpenTotalJson:0
+[    4153ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/PortalQDManage/PortalQD/GetLinksInfo:0
+[    4160ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/Error/ErrorPath404?aspxerrorpath=/favicon.ico:0
+[    4160ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ https://ggzy.qingdao.gov.cn/PortalQDManage/PortalQD/GetWindowNoticeList:0
